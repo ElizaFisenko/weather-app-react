@@ -7,6 +7,7 @@ function App() {
       <div className="weather-app">
         <Weather />
       </div>
+      <a href='https://github.com/ElizaFisenko/weather-app-react' target="_blank" rel="noreferrer">Open-source code</a>
     </div>
   );
 }
